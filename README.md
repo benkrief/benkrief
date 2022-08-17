@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">MIAGE IT Student</h3>
 
-- 👨‍💻 I’m currently working in **Vesper**
+- 👨‍💻 I’m currently working in <a href="https://www.myvesper.fr/">**Vesper**</a>
 
-- 🏫 I’m currently learning at **MIAGE NANTERRE (PARIS X University)**
+- 🏫 I’m currently learning at <a href"https://formations.parisnanterre.fr/fr/catalogue-des-formations/master-lmd-05/methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage-master-JWQG2CKZ.html">**MIAGE NANTERRE (PARIS X University)**</a>
 
 - 📫 How to reach me **benjaminkri@hotmail.fr**
 
