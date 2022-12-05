@@ -5,7 +5,7 @@
 
 - 🏫 I’m currently learning at <a href="https://formations.parisnanterre.fr/fr/catalogue-des-formations/master-lmd-05/methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage-master-JWQG2CKZ.html">**MIAGE NANTERRE (PARIS X University)**</a>
 
-- 📫 How to reach me ? ➩ <a href="mailto:kriefbenj@gmail.com">**Email Me !**</a>
+- 📫 How to reach me ? ➩ <a href="mailto:benjaminkri@hotmail.fr">**Email Me !**</a>
 
 - ⚡ Fun fact **I love Symfony framework**
 
