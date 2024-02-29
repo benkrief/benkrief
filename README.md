@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">MIAGE IT Student</h3>
+<h3 align="center">I'm a web software developer</h3>
 
 - 👨‍💻 I’m currently working in <a href="https://www.layan.eu/">**Layan**</a>
 
-- 🏫 I’m I am a graduate of the <a href="https://formations.parisnanterre.fr/fr/catalogue-des-formations/master-lmd-05/methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage-master-JWQG2CKZ.html">**MIAGE NANTERRE (University of Paris Nanterre)**</a>
+- 🏫 I’m a graduate of the <a href="https://formations.parisnanterre.fr/fr/catalogue-des-formations/master-lmd-05/methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage-master-JWQG2CKZ.html">**MIAGE NANTERRE (University of Paris Nanterre)**</a>
 
 - 📫 How to reach me ? ➩ <a href="mailto:benjaminkri@hotmail.fr">**Email Me !**</a>
 
